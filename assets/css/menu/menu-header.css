@@ -1,0 +1,9 @@
+.menu__header img {
+    height: 3rem;
+}
+
+@media (max-width: 425px) {
+    .menu__header img {
+        height: 1.2rem;
+    }
+}
